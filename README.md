@@ -69,6 +69,7 @@ sudo docker run -it --rm -p 3000:80 frontend
 
 
 ## Referências
+* [Apresentação](https://docs.google.com/presentation/d/1Cr78L4HdfDcrJmPvr-BNu36ssT1JQGpTflNFljR_WEA/edit#slide=id.p1)
 * [VueJS](https://vuejs.org)
 * [Vue CLI](https://cli.vuejs.org)
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
